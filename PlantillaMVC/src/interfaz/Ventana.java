@@ -20,7 +20,7 @@ package interfaz;
 
 /**
  *
- * @author Jeferson Jimenez aa
+ * @author Jeferson Jimenez
  */
 import java.awt.Color;
 import java.awt.Cursor;
